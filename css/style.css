@@ -1,8 +1,8 @@
 /* ===== CSS Variables ===== */
 :root {
-    --primary-color: #6366f1;
+    --primary-color: #c27a16;
     --secondary-color: #8b5cf6;
-    --accent-color: #ec4899;
+    --accent-color: #021749;
     --bg-dark: #0f172a;
     --bg-darker: #020617;
     --bg-light: #1e293b;
@@ -317,7 +317,7 @@ button {
     object-fit: cover;
     border-radius: 50%;
     border: 5px solid var(--primary-color);
-    box-shadow: 0 0 30px rgba(7, 8, 22, 0.5);
+    box-shadow: 0 0 30px rgba(99, 102, 241, 0.5);
     position: relative;
     z-index: 2;
 }
